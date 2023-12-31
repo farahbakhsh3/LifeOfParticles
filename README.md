@@ -1,4 +1,4 @@
 # LifeOfParticles
 Simulation of Particles life.
 
-Based on : https://github.com/gianfa/pyrticleslife
+Based on : https://github.com/hunar4321/particle-life
